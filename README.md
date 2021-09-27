@@ -1,5 +1,9 @@
 # Correct-ID
 Next.py Course - Campus IL
+
+![image](https://user-images.githubusercontent.com/80900890/134880679-a5b078c2-2254-42d7-b3f8-a2d1806b9368.png)
+
+
 1.	Receiving an ID number from the user.
 2.	Implementing the check_id_valid function.
 3.	Receive a string that indicates whether to use an iterator or a generator (it or gen).
